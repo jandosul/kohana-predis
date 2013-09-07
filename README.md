@@ -36,7 +36,7 @@ with
 
 ## Dependencies ##
 
-- Kohana >=3.2, not tested other branches of 3.x, maybe works
+- Kohana >=3.2, not tested other branches of 3.x, maybe works :)
 - PHP >= 5.4, 5.3
 
 ## Links ##
