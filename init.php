@@ -34,14 +34,6 @@ class redisSessionHandler implements SessionHandlerInterface{
         ));
         
         session_set_save_handler($this, true);
-        // session_set_save_handler(
-        //     array(&$this, "open"),
-        //     array(&$this, "close"),
-        //     array(&$this, "read"),
-        //     array(&$this, "write"),
-        //     array(&$this, "destroy"),
-        //     array(&$this, "gc")
-        // );
     }
  
     /**
