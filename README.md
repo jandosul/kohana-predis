@@ -15,7 +15,7 @@ Extract files to modules folder. Add extra line with module in bootstrap.php
 ```
 
 ## Caution
-For php 5.4 only, for php 5.3 replace line 36 in init.php
+For php __5.4__ only, for php 5.3 replace line 36 in init.php
 
 ```php
 <?php
