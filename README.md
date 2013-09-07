@@ -1,5 +1,5 @@
 # Kohana module for Predis
-Using redis as session handler.
+Using redis as session handler. Works on kohana 3.2, other versions not tested.
 
 [Predis](https://github.com/nrk/predis) is an no-install object oriented Redis client library built using PHP5.
 
