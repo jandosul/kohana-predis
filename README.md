@@ -32,3 +32,21 @@ with
             array(&$this, "gc")
         );
 ```
+
+
+## Dependencies ##
+
+- PHP >= 5.4
+
+## Links ##
+
+### Related ###
+- [Source code](https://github.com/jandosul/kohana32-predis)
+- [Predis](http://github.com/nrk/predis/)
+- [Redis](http://redis.io/)
+- [PHP](http://php.net/)
+- [Git](http://git-scm.com/)
+
+## Author ##
+
+- [Zhandos Ulan](mailto:jandosul@gmail.com) ([twitter](http://twitter.com/jandosul))
